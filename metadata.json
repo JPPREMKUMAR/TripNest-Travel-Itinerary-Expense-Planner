@@ -1,0 +1,6 @@
+{
+  "name": "TripNest — Travel Itinerary & Expense Planner",
+  "description": "Comprehensive travel planning workspace to organize trips, build day-by-day itineraries, track estimated and actual expenses, and manage packing checklists.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
